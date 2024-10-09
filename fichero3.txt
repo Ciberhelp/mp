@@ -1,1 +1,2 @@
 Este es mi primer fichero git
+Alguien me ha modificado el fichero desde otra ubicación
