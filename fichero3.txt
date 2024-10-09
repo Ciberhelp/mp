@@ -1,1 +1,6 @@
 Este es mi primer fichero git
+y esta es su segunda fil
+y esta es la tercera
+y esta es una lineea que añado en una nueva rama
+y esta es otra linea mas
+
